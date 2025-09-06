@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DANYLOGOODBOY
 - 👀 I’m interested games programing but i am not good at programing 
-- 🌱 I’m currently learning python language and C++
+- 🌱 I’m currently learning Python language and C++
 - 📫 How to reach me write me on gdisthebestgame1@gmail.com
 - I am making own Geode mod
 <!---
